@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-server/
+.data/
+.toolchains/
+src-tauri/target/
+src-tauri/gen/
+src-tauri/resources/
+src-tauri/binaries/*
+.env
+.DS_Store

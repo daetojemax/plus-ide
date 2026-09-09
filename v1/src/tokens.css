@@ -1,0 +1,13 @@
+:root {
+  color-scheme: dark;
+  --canvas: #0d121c;
+  --sidebar: #11161d;
+  --surface: #191f29;
+  --hover: #252d38;
+  --border: #2b313b;
+  --text: #eef1f6;
+  --muted: #97a3b4;
+  --accent: #6dd891;
+  --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --mono: 'SFMono-Regular', Consolas, monospace;
+}
